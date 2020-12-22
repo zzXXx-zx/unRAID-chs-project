@@ -5,7 +5,7 @@
 <!ENTITY author    "KleinerSource">
 <!ENTITY version   "v1.0">
 <!ENTITY github    "...">
-<!ENTITY pluginURL "https://raw.githubusercontent.com/KleinerSource/unRAID-chs-project/master/release/&name;.plg">
+<!ENTITY pluginURL "https://raw.githubusercontent.com/zzXXx-zx/unRAID-chs-project/master/release/&name;.plg">
 ]>
 
 <PLUGIN name="&title;" author="&author;" version="&version;" pluginURL="&pluginURL;" min="6.8.2" max="6.8.2" support="" icon="users">
